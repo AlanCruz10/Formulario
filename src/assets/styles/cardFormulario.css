@@ -1,0 +1,18 @@
+.atributos {
+    margin: auto;
+    width: 80%;
+}
+.tags {
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+}
+.inputs {
+    width: 60%;
+    border-radius: 9px;
+    border: 0px;
+    font-size: 17px;
+    height: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: bisque;
+}
